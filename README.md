@@ -31,6 +31,3 @@ A sleek and modern Android Weather App built with **Jetpack Compose** and powere
 ## 📦 APK Download
 
 You can [Download the latest APK here](https://github.com/Ashu-sosuke/Weather-App/releases/latest).
-
-```markdown
-[![Download APK](https://img.shields.io/badge/Download-WeatherApp-blue)](https://github.com/Ashu-sosuke/Weather-App/releases/latest)
